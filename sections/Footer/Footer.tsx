@@ -113,7 +113,7 @@ function Footer({
           </div>
 
           <div class="flex flex-nowrap items-center justify-center gap-4">
-            <span class="text-sm font-normal text-base-400">Powered by</span>
+            <span class="text-sm font-normal text-base-400">Desenvolvido por</span>
             <PoweredByDeco />
           </div>
         </div>
