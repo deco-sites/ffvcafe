@@ -11,15 +11,15 @@
       "__resolveType": "site/sections/Images/Carousel.tsx",
       "images": [
         {
-          "desktop": "https://assets.decocache.com/storefront/cda73525-1147-4616-8ff1-65b566b7ed75/1742560195835-5b022a01-ba88-46fe-86ae-93ae644605b7",
-          "mobile": "https://assets.decocache.com/storefront/9c8c0ce3-4ffb-49d6-a8d1-fe17a3db7e86/1742560203848-88b2ad41-be6d-4640-b9fe-c58942362f0f",
-          "alt": "Shoes",
+          "desktop": "https://assets.decocache.com/ffvcafe/a156a4d8-da57-4d58-a77d-bf5b5c0a1c3c/banner-ffv-1.png",
+          "mobile": "https://assets.decocache.com/ffvcafe/a156a4d8-da57-4d58-a77d-bf5b5c0a1c3c/banner-ffv-1.png",
           "action": {
             "title": "Skate into Adventure!",
             "subTitle": "Top-quality roller skate shoes for all levels. ",
             "href": "/s?q=shoes&page=0",
             "label": "Grab Yours Now!"
-          }
+          },
+          "alt": "Banner Verao"
         },
         {
           "desktop": "https://assets.decocache.com/storefront/98a22637-60b2-41f7-9d49-dbbf99f50472/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded",
