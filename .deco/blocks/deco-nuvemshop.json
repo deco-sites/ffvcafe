@@ -1,1 +1,6 @@
-{"__resolveType":"site/apps/deco/nuvemshop.ts"}
+{
+  "__resolveType": "site/apps/deco/nuvemshop.ts",
+  "accessToken": {},
+  "platform": "nuvemshop",
+  "publicUrl": "lojateste3218.lojavirtualnuvem.com.br"
+}
