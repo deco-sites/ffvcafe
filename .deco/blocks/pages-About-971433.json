@@ -23,7 +23,131 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Footer/Footer.tsx"
+        "__resolveType": "site/sections/Newsletter/Newsletter.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Footer/Footer.tsx",
+        "links": [
+          {
+            "children": [
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              }
+            ],
+            "title": "Lorem ipsum",
+            "href": "#"
+          },
+          {
+            "children": [
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              }
+            ],
+            "title": "Lorem ipsum",
+            "href": "#"
+          },
+          {
+            "children": [
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              }
+            ],
+            "title": "Lorem ipsum",
+            "href": "#"
+          },
+          {
+            "children": [
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              },
+              {
+                "title": "Link lorem",
+                "href": "#"
+              }
+            ],
+            "title": "Lorem ipsum",
+            "href": "#"
+          }
+        ],
+        "social": [],
+        "trademark": "© FFV CAFÉ - Todos os direitos reservados.",
+        "policies": [
+          {
+            "title": "Termos de uso",
+            "href": "#"
+          },
+          {
+            "title": "Trocas e devoluções",
+            "href": "#"
+          }
+        ]
       }
     }
   ],
