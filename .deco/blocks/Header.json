@@ -8,13 +8,13 @@
     }
   },
   "alerts": [
-    "<p>Get 10% off today: <strong>NEW10</strong></p>"
+    "<p>Utilize o cupom e aproveite a promoção de inauguração:&nbsp;<strong>FFVCAFE1ANO</strong></p>"
   ],
   "logo": {
-    "src": "https://assets.decocache.com/storefront/0d91c3c0-1062-4b5c-9b77-19c2b6c13bfb/1742560193760-ed9f7e80-86a8-4b72-9809-2e4e2e5f0e53",
-    "alt": "Deco Storefront",
-    "width": 160,
-    "height": 40
+    "src": "https://assets.decocache.com/ffvcafe/03a6be82-9b75-473b-b29a-72a12bff7a58/FFVCAFE-LOGO.jpg",
+    "alt": "FFV CAFE",
+    "width": 126,
+    "height": 82
   },
   "navItems": [
     {
@@ -22,47 +22,90 @@
         {
           "image": [],
           "children": [],
-          "name": "Hello"
+          "name": "CAMISETAS"
         },
         {
           "image": [],
           "children": [],
-          "name": "World"
+          "name": "BERMUDAS"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "REGATAS"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "MEIAS"
         }
       ],
       "@type": "SiteNavigationElement",
-      "url": "/deals",
-      "name": "Deals"
+      "url": "/roupas",
+      "image": null,
+      "name": "ROUPAS"
     },
     {
       "@type": "SiteNavigationElement",
-      "url": "/valentines-day",
-      "name": "Valentine's Day",
-      "children": []
+      "url": "/acessorios",
+      "name": "ACESSÓRIOS",
+      "children": [
+        {
+          "children": [],
+          "image": null,
+          "name": "CHAVEIROS"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "BONÉS"
+        }
+      ],
+      "image": null
     },
     {
       "@type": "SiteNavigationElement",
-      "url": "/women",
-      "name": "Women",
-      "children": []
+      "url": "/cafes",
+      "name": "CAFÉS",
+      "children": [
+        {
+          "children": [],
+          "image": null,
+          "name": "TIPO DE CAFÉ 1"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "TIPO DE CAFÉ 2"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "TIPO DE CAFÉ 3"
+        }
+      ],
+      "image": null
     },
     {
       "@type": "SiteNavigationElement",
-      "url": "/men",
-      "name": "Men",
-      "children": []
+      "url": "/sale",
+      "name": "SALE 10% OFF",
+      "children": [],
+      "image": null
     },
     {
       "@type": "SiteNavigationElement",
-      "url": "/clearance",
-      "name": "Clearance",
-      "children": []
+      "url": "/about",
+      "children": [],
+      "image": null,
+      "name": "CONHEÇA NOSSA HISTÓRIA"
     },
     {
       "@type": "SiteNavigationElement",
-      "url": "/activities",
-      "name": "Activities",
-      "children": []
+      "url": "/contato",
+      "children": [],
+      "image": null,
+      "name": "CONTATO"
     }
   ],
   "loading": "eager"
