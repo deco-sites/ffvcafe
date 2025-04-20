@@ -189,10 +189,10 @@ function Header({
   alerts = [],
   logo = {
     src:
-      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2291/986b61d4-3847-4867-93c8-b550cb459cc7",
-    width: 100,
-    height: 16,
-    alt: "Logo",
+      "https://assets.decocache.com/ffvcafe/03a6be82-9b75-473b-b29a-72a12bff7a58/FFVCAFE-LOGO.jpg",
+    width: 126,
+    height: 82,
+    alt: "FFV Cafe Logo",
   },
   ...props
 }: Props) {
